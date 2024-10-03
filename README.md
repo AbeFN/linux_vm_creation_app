@@ -11,8 +11,6 @@ This project provides a Python-based graphical user interface (GUI) to automate 
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
 
 ## Installation
 
