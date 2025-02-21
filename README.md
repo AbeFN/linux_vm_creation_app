@@ -1,5 +1,7 @@
 # linux_vm_creation_app
 
+STILL IN DEVELOPMENT. V1.0
+
 Program designed to create a Linux server cloned from a template in vCenter.
 
 ## Description
